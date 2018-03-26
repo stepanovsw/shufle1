@@ -18,6 +18,7 @@ public class shuffle1 {
         //1 блок
         if (x==1){
         System.out.print("d");
+        x = x-1;
         }
         
         //2 блок
